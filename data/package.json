@@ -1,0 +1,12 @@
+{
+    "name": "NihonGO!",
+    "version": "0.0 (Development Access)",
+    "description": "A language learning platform for Japanese learners.",
+    "main": "example.py",
+    "license": "LICENCE",
+    "dependencies": {
+        "colorama": "^0.4.4",
+        "json": "^11.0.0"
+    },
+    "first_run": true
+}

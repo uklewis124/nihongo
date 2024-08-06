@@ -1,0 +1,43 @@
+{
+    "current_user": {
+        "id": 1,
+        "names": {
+            "name": "Lewis Davies",
+            "first": "Lewis",
+            "last": "Davies"
+        },
+        "email": "lewisastondavies1@gmail.com",
+        "admin": {
+            "is_admin": true
+        },
+        "badges": ["official", "early-access"]
+    },
+    
+    "users": [
+        {
+            "id": 1,
+            "names": {
+                "name": "Lewis Davies",
+                "first": "Lewis",
+                "last": "Davies"
+            },
+            "email": "contact@lewisdavies.me",
+            "admin": {
+                "is_admin": true
+            },
+            "badges": ["official", "early-access"]
+        },
+        {
+            "id": 2,
+            "names": {
+                "name": "John Doe",
+                "first": "John",
+                "last": "Doe"
+            },
+            "email": "test@test.com",
+            "admin": {
+                "is_admin": false
+            },
+            "badges": []
+        }]
+}
